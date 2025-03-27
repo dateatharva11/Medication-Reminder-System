@@ -1,0 +1,6 @@
+Flask==3.0.0
+twilio==8.0.0
+python-dotenv==1.0.1
+elevenlabs==0.2.26
+deepgram-sdk==1.6.1
+localtunnel==2.0.2
