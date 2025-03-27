@@ -91,11 +91,6 @@ url = "https://your-localtunnel-url.loca.lt/voice_prompt"
 4. The system will initiate a call and display the status.
 
 ---
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Author
 Developed by **Atharva Shailesh Date**
-
-### Contact
-For issues or suggestions, please open an issue in the repository.
